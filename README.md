@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![9Mzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Mzz)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Mzz)
