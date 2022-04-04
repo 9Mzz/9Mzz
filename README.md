@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-(Github Stat) [![9Mzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Mzz)] 
+(Github Stat) [] 
+![9Mzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Mzz)
 
-Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Mzz)
+Most Used Language)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Mzz)
 
 
 <!--
